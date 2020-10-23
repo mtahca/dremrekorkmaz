@@ -9,16 +9,16 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Op. Dr. Emre Korkmaz</h1>
         <h2>Beyin ve Sinir Cerrahisi Uzmanı</h2>
-        <h3>EMSEY HASTANESİ</h3>
+        <h3>Özel MEDAR Hastanesi</h3>
         
         <p>
-        Adres: Çamlık Mh. Selçuklu Cd. No:22 Pendik/İSTANBUL
+        Adres: Çiftlik mah. 4179. Sk. No:1 Gölcük/Kocaeli
         </p>
         <p>
-        İş Tel: 444 2 599 - 0 216 585 37 00
+        İş Tel: 444 99 41
         </p>
         <p>
-        Cep Tel: 0 505 254 78 88
+        Cep Tel: 0505 254 78 88
         </p>
         <p>dremrekorkmaz@yahoo.com.tr</p>
       </header>
